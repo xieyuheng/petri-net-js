@@ -1,4 +1,4 @@
-import * as pt from "@cicada-lang/partech"
+import * as pt from "@xieyuheng/partech"
 import { Span } from "../span"
 
 export type ReportEntry = {

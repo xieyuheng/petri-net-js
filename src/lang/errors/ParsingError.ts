@@ -1,1 +1,1 @@
-export { ParsingError } from "@cicada-lang/partech/lib/errors"
+export { ParsingError } from "@xieyuheng/partech/lib/errors"

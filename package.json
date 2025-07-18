@@ -1,7 +1,7 @@
 {
-  "name": "@cicada-lang/petri-net-js",
+  "name": "@xieyuheng/petri-net-js",
   "version": "0.1.0",
-  "repository": "github:cicada-lang/petri-net-js",
+  "repository": "github:xieyuheng/petri-net-js",
   "main": "./lib/index.js",
   "files": [
     "lib"
@@ -26,8 +26,8 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@cicada-lang/framework": "^0.1.6",
-    "@cicada-lang/partech": "^0.2.5",
+    "@xieyuheng/framework": "^0.1.6",
+    "@xieyuheng/partech": "^0.2.5",
     "@vue/runtime-core": "^3.3.8",
     "@xieyuheng/command-line": "^0.0.13",
     "@xieyuheng/ty": "^0.1.26",

@@ -9,7 +9,7 @@ This is an implementation of [Petri net](https://en.wikipedia.org/wiki/Petri_net
 Install it by the following command:
 
 ```sh
-npm install --global @cicada-lang/petri-net-js
+npm install --global @xieyuheng/petri-net-js
 ```
 
 The command-line program is called `petri-net-js`.

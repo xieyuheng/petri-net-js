@@ -1,4 +1,4 @@
-import { ParsingError } from "@cicada-lang/partech/lib/errors"
+import { ParsingError } from "@xieyuheng/partech/lib/errors"
 import { Command, CommandRunner } from "@xieyuheng/command-line"
 import { ty } from "@xieyuheng/ty"
 import fs from "node:fs"
